@@ -8,8 +8,7 @@
 - Social Media Manager @ Caldas da Rainha Ladies Open | 2022
 
 ### Education
-- Bachelor's degree in Data Science
-NOVA Information Management School
+Bachelor's degree in Data Science | NOVA Information Management School
 
 ### Volunteer Experience
 - Operations volunteer @ Web Summit | 2023
