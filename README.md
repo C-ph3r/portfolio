@@ -8,7 +8,7 @@
 - Social Media Manager @ Caldas da Rainha Ladies Open | 2022
 
 ### Education
-** Bachelor's degree in Data Science
+- Bachelor's degree in Data Science
 NOVA Information Management School
 
 ### Volunteer Experience
@@ -17,10 +17,8 @@ NOVA Information Management School
 - Volunteer @ Sorriso Amigo | 2021
 
 ### Projects
-** Machine Learning
-** Artificial Intelligence
-** Data Analysis
-** Visualization: Power BI
-** Database design
-<!  !['image name that is shown']('image source') -->
-<!  ['text shown']('clickable link') -->
+- Machine Learning
+- Artificial Intelligence
+- Data Analysis
+- Visualization: Power BI
+- Database design
