@@ -21,3 +21,4 @@ Bachelor's degree in Data Science | NOVA Information Management School
 - Data Analysis
 - Visualization: Power BI
 - Database design
+- Game dev with Pygame
